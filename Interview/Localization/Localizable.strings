@@ -1,0 +1,13 @@
+//
+//  CommentsCell.swift
+//  Interview
+//
+//  Created by Kiprop Collins Korir on 14/03/2021.
+//
+
+"loading" = "Loading...";
+"loader_text_login" = "Logging in...";
+"home_title" = "Collins' Posts app";
+"posts_list" = "Posts";
+"add_new_location_title" = "Add a new location";
+

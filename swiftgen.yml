@@ -1,0 +1,6 @@
+xcassets:
+  inputs: Interview/SupportFiles/Assets.xcassets
+  outputs:
+    templateName: swift4
+    output: Interview/SupportFiles/Generated/Images.swift
+

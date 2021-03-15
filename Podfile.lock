@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.4.1)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - Realm (10.5.1):
+    - Realm/Headers (= 10.5.1)
+  - Realm/Headers (10.5.1)
+  - RealmSwift (10.5.1):
+    - Realm (= 10.5.1)
+  - RxSwift (5.1.1)
+
+DEPENDENCIES:
+  - Moya/RxSwift
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Moya
+    - Realm
+    - RealmSwift
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  Realm: 77fcb4e0b9f2963ea06f584749a0d7dc9cab95e1
+  RealmSwift: 6abe6aa6cd8b70cc1a87afcb9232cabea74ff1ac
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+
+PODFILE CHECKSUM: f92130d8c66c955f1f40afb84b8fb83366e3d957
+
+COCOAPODS: 1.10.0
